@@ -27,6 +27,3 @@ To install the QR Code Generator, simply download the project files and open the
 
 ## Support and Contribution
 If you encounter any issues or have suggestions for improvements, please feel free [open an issue](https://github.com/qr-code-generator/issues). Contributions are also welcome through pull requests.
-
-## License
-This QR Code Generator is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
